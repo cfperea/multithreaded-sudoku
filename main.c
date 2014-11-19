@@ -188,18 +188,6 @@ int main(void)
         printf("The Sudoku Puzzle is NOT solved.\n");
     }
     
-    // printf("pthread_create() for thread all_rows returns: %d\n", (int) all_rows);
-    // printf("pthread_create() for thread all_cols returns: %d\n", (int) all_cols);
-    // printf("pthread_create() for thread 1 returns: %d\n", (int) square1);
-    // printf("pthread_create() for thread 2 returns: %d\n", (int) square2);
-    // printf("pthread_create() for thread 3 returns: %d\n", (int) square3);
-    // printf("pthread_create() for thread 4 returns: %d\n", (int) square4);
-    // printf("pthread_create() for thread 5 returns: %d\n", (int) square5);
-    // printf("pthread_create() for thread 6 returns: %d\n", (int) square6);
-    // printf("pthread_create() for thread 7 returns: %d\n", (int) square7);
-    // printf("pthread_create() for thread 8 returns: %d\n", (int) square8);
-    // printf("pthread_create() for thread 9 returns: %d\n", (int) square9);
-    
     return 0;
 }
 
