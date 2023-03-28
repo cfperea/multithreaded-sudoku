@@ -31,7 +31,7 @@
  */
 typedef struct 
 {
-    // The starting row.
+    // The starting row hello.
     int row;
     // The starting column.
     int col;
